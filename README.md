@@ -16,9 +16,8 @@ the "Deliver" stage of your Pipeline.
         
              
              
-        
        vbvbvb
-     
+     v
      
   
  
