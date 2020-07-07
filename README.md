@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/vxuazure/test/_apis/build/status/vxuavalon.simple-java-maven-app?branchName=master)](https://dev.azure.com/vxuazure/test/_build/latest?definitionId=6&branchName=master)
 # simple-java-maven-app
          
 This repository is for the
