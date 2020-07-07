@@ -5,6 +5,7 @@
 
 trigger:
 - master
+- test1/*
 pr:
 - master
 - test1/*
